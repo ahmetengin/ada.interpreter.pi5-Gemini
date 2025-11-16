@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Real-Time Voice Chat",
+  "description": "Engage in a real-time voice conversation with Gemini. This application uses the Gemini Live API to provide instant, spoken responses and displays a live transcript of the dialogue.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
